@@ -2,7 +2,8 @@
 TFL Road Status Coding Challenge Repository
 
 
-# ScreenShot
+# ScreenShots
 
-Result
-![image](https://user-images.githubusercontent.com/63959021/119277435-fbd54c00-bc1f-11eb-927c-cf4173bce30f.png)
+# Result
+![image](https://user-images.githubusercontent.com/63959021/119343906-51990b00-bc97-11eb-8377-a19c2e3b8298.png)
+

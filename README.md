@@ -37,6 +37,9 @@ These will install any needed dependencies, build the project, and run the proje
 
 # Result
 ![image](https://user-images.githubusercontent.com/63959021/119343906-51990b00-bc97-11eb-8377-a19c2e3b8298.png)
+![image](https://user-images.githubusercontent.com/63959021/119406828-9ea2ce80-bce3-11eb-8a72-f6ab3942570c.png)
+
+
 
 # Test Case Status
 ![image](https://user-images.githubusercontent.com/63959021/119344331-cff5ad00-bc97-11eb-87cb-c603ca852bad.png)
